@@ -13,6 +13,7 @@ def input_to_index(user_input)
   return new_user_input
 end
 
+board = [" ", " ", " "]
 def move(array, index, value = "X")
   array[index] = value
   return array
