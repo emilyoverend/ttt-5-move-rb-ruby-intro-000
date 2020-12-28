@@ -14,4 +14,4 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def update_array_at_with(board, 0, "X")
   array[index] = value
-end 
+end
