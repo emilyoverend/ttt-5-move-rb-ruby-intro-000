@@ -10,4 +10,3 @@ end
 def input_to_index("1"-"9")
   puts "converted_input = input_to_index(user_input)"
 end
-
