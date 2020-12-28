@@ -8,7 +8,15 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index('1' - '9')
-  puts "converted_input = input_to_index(user_input)"
+  puts "0 + 1"
+  puts "1 + 1"
+  puts "2 + 1"
+  puts "3 + 1"
+  puts "4 + 1"
+  puts "5 + 1"
+  puts "6 + 1"
+  puts "7 + 1"
+  puts "8 + 1"
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
